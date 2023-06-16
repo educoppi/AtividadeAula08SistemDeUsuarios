@@ -92,7 +92,6 @@ namespace AtividadeAula08SistemaDeUsuarios
                 cabeçalho();
                 Console.WriteLine("Opção inválida!");
                 retornarMenu();
-
             }
 
             if (opcao == 1)
